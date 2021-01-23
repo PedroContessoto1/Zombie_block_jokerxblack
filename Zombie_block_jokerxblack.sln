@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie_block_jokerxblack", "Zombie_block_jokerxblack\Zombie_block_jokerxblack.csproj", "{4ABCD492-43D4-42E9-8FF9-BC0552139462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABCD492-43D4-42E9-8FF9-BC0552139462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABCD492-43D4-42E9-8FF9-BC0552139462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABCD492-43D4-42E9-8FF9-BC0552139462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABCD492-43D4-42E9-8FF9-BC0552139462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00CDEEF6-2AD3-4F6C-9FBC-9982A7B79FBE}
+	EndGlobalSection
+EndGlobal
